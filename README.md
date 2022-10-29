@@ -57,7 +57,9 @@
 
 
 ### 🔱 Optimization  
-sds  
+- Linear Programming
+- Dynamic Programming
+- Constraint Programming
 
 
 </td><td valign="top" width="33%">
