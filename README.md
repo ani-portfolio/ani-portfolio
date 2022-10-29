@@ -46,7 +46,7 @@
 
 
 
-### 🎲 State Space Modelling  
+### 🎲 State Space  
 - The Kalman Filter
 - Hidden Markov Models
 - Bayesian Structural Time Series  
