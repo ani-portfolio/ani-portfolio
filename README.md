@@ -35,7 +35,6 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pandas.png" alt="Pandas" height="50" /></a> 
 <!--Numpy-->
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/numpy.png" alt="Numpy" height="50" /></a> 
-</div>
 <!--Matplotlib-->
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/matplotlib.png" alt="Matplotlib" height="50" /></a> 
 <!--Seaborn-->
@@ -46,6 +45,7 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/gcp.png" alt="GCP" height="50" /></a> 
 <!--Airflow-->
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="50" /></a> 
+</div>
 
 ## My Skill Set  
 
