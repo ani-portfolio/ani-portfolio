@@ -1,25 +1,13 @@
 
-## <img src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/coding.gif" width="100" height="100" /> Hello, I'm Ani  
+## <img src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/coding.gif" width="100" height="100" /> 
   
 
 <br/>  
 
-### <div align="center">I'm a self-starting Data Scientist, passionate about solving complex real-world problems using Data, Machine Learning, Deep Learning & Statistics</div>  
+### <div align="center">Hello, I'm Ani. I'm a self-starting Data Scientist, passionate about solving complex real-world problems using Data, Machine Learning, Deep Learning & Statistics</div>  
   
 
 <br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ani-rudh-d" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ani-dharmarajan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br />
 
 ## My Tool Set  
 <div align="center">  
@@ -61,6 +49,17 @@
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/ani-rudh-d" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ani-dharmarajan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
 
 
 
