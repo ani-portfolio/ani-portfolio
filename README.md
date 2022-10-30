@@ -21,6 +21,20 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="50" /></a> 
 <!--XGBoost-->
 <a href="https://xgboost.ai/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/xgboost.png" alt="XGBoost" height="50" /></a> 
+<!--LightGBM-->
+<a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/lightgbm.png" alt="XGBoost" height="50" /></a> 
+<!--Pytorch-->
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pytorch.png" alt="XGBoost" height="50" /></a> 
+<!--Matplotlib-->
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/matplotlib.png" alt="XGBoost" height="50" /></a> 
+<!--Seaborn-->
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/seaborn.png" alt="XGBoost" height="50" /></a> 
+<!--ScikitLearn-->
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/scikitlearn.jpeg" alt="XGBoost" height="50" /></a> 
+<!--Pandas-->
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pandas.png" alt="XGBoost" height="50" /></a> 
+<!--Numpy-->
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/numpy.png" alt="XGBoost" height="50" /></a> 
 </div>  
 
 ## My Skill Set  
