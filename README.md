@@ -1,5 +1,5 @@
 
-## 🚁 Hello, I'm Ani  
+## <img src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/coding.gif" width="100" height="100" /> Hello, I'm Ani  
   
 
 <br/>  
