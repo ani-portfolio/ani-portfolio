@@ -4,7 +4,8 @@
 
 <br/>  
 
-### <div align="center">Hello, I'm Ani. I'm a self-starting Data Scientist, passionate about solving complex real-world problems using Data, Machine Learning, Deep Learning & Statistics</div>  
+### <div align="center">Hello, I'm Ani. 
+### <div align="center">I'm a self-starting Data Scientist, passionate about solving complex real-world problems using Data, Machine Learning, Deep Learning & Statistics</div>  
   
 
 <br/>  
