@@ -9,7 +9,34 @@
   
 
 <br/>  
+ 
+## My Skill Set  
 
+### 🧮 Machine Learning  
+- Regression
+- Classification
+- Clustering  
+
+### 🌐 Deep Learning  
+- LSTM  
+
+### 📊 Statistical Modelling  
+- ARIMA
+- SARIMA  
+
+### 🎲 State Space Modelling
+- The Kalman Filter
+- Hidden Markov Models
+- Bayesian Structural Time Series  
+
+### 🔱 Optimization  
+- Linear Programming
+- Dynamic Programming
+- Constraint Programming
+
+<br/>  
+
+  
 ## My Tool Set  
 <div align="center">  
 <!--Python-->
@@ -47,32 +74,6 @@
 <!--Airflow-->
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="50" /></a> 
 </div>
-
-## My Skill Set  
-
-### 🧮 Machine Learning  
-- Regression
-- Classification
-- Clustering  
-
-### 🌐 Deep Learning  
-- LSTM  
-
-### 📊 Statistical Modelling  
-- ARIMA
-- SARIMA  
-
-### 🎲 State Space Modelling
-- The Kalman Filter
-- Hidden Markov Models
-- Bayesian Structural Time Series  
-
-### 🔱 Optimization  
-- Linear Programming
-- Dynamic Programming
-- Constraint Programming
-
-<br/>  
 
 ## Connect with me  
 <div align="center">
