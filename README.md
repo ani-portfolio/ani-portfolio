@@ -34,6 +34,14 @@
 - Dynamic Programming
 - Constraint Programming
 
+### 🔱 Anomaly Detection  
+- Statistical Methods
+- Forecasting Methods
+- Clustering Based Unsupervised Methods
+    - DBSCAN
+- Classification & Regression Trees Methods
+    - Isolation Forest
+    - 1 class SVM
 <br/>  
 
   
