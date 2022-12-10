@@ -1,51 +1,50 @@
-
-## <img src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/coding.gif" width="100" height="100" /> 
-  
-
 <br/>  
 
 ### <div align="center">Hello, I'm Ani. 
-### <div align="center">I'm a self-starting Data Scientist, passionate about solving complex real-world problems using Data, Machine Learning, Deep Learning & Statistics</div>  
-  
+### <div align="center">I’m a self-starting Machine Learning Engineer / Data Scientist, with a passion for using ML & DS to build solutions for complex problems</div>  
 
+## Projects 
+- [Fraud Detection using Probabilistic Classification](https://github.com/ani-rudh-d/amex-comp)
 <br/>  
  
-## My Skill Set  
+## Technical Capabilities
+**Programming Languages** Python
 
-### 🧮 Machine Learning  
-- Regression
-- Classification
-- Clustering  
+**Python Libraries** Pandas, Numpy, Scikit-Learn, LightGBM, XGBoost, Keras, Tensorflow
 
-### 🌐 Deep Learning  
-- LSTM  
+**Machine Learning** Regression, Classification, Clustering, Gradient Boosted Decision Trees
 
-### 📊 Statistical Modelling  
-- ARIMA
-- SARIMA  
+**Deep Learning** LSTM, TDNN
 
-### 🎲 State Space Modelling
-- The Kalman Filter
-- Hidden Markov Models
-- Bayesian Structural Time Series  
+**Database** SQL, BigQuery
 
-### 🔱 Optimization  
-- Linear Programming
-- Dynamic Programming
-- Constraint Programming
+**MLOps** Airflow, Docker, Gitlab CI/CD
 
-### 🔱 Anomaly Detection  
-- Statistical Methods
-- Forecasting Methods
-- Clustering Based Unsupervised Methods
-    - DBSCAN
-- Classification & Regression Trees Methods
-    - Isolation Forest
-    - 1 class SVM
+**Cloud** Google Cloud Platform (GCP), Vertex AI
+
+**Data Visualization** Looker, Plotly, Matplotlib, Seaborn
+
+**Statistical Modelling** ARIMA, Time-Series Forecasting
+
+**Python Libraries** Pandas, Numpy, Scikit-Learn, LightGBM, XGBoost, Keras, Tensorflow
+
+**Machine Learning** Regression, Classification, Clustering, Gradient Boosted Decision Trees
+
+**Deep Learning** LSTM, TDNN
+
+**Database** SQL, BigQuery
+
+**MLOps** Airflow, Docker, Gitlab CI/CD
+
+**Cloud** Google Cloud Platform (GCP), Vertex AI
+
+**Data Visualization** Looker, Plotly, Matplotlib, Seaborn
+
+**Statistical Modelling** ARIMA, Time-Series Forecasting
 <br/>  
 
   
-## My Tool Set  
+## Tech Stack 
 <div align="center">  
 <!--Python-->
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="50" /></a> 
@@ -65,8 +64,6 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/tensorflow.png" alt="Tensorflow" height="50" /></a> 
 <!--Keras-->
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/keras.png" alt="Keras" height="50" /></a> 
-<!--Pytorch-->
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pytorch.png" alt="Pytorch" height="50" /></a> 
 <!--Pandas-->
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pandas.png" alt="Pandas" height="50" /></a> 
 <!--Numpy-->
