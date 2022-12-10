@@ -3,10 +3,23 @@
 ### <div align="center">Hello, I'm Ani. 
 ### <div align="center">I’m a self-starting Machine Learning Engineer / Data Scientist, with a passion for using ML & DS to build solutions for complex problems</div>  
 
+## Connect with me  
+<div align="center">
+<a href="https://mercury-line-eed.notion.site/Ani-Dharmarajan-Portfolio-7478c9be63f445c384856d09104322a0" target="_blank">
+<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/website.png alt=website style="margin-bottom: 5px; height:28px;" />
+</a>
+<a href="https://linkedin.com/in/ani-dharmarajan" target="_blank">
+<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/linkedin.png alt=linkedin style="margin-bottom: 5px; height:28px;" />
+</a> 
+<a href="https://mercury-line-eed.notion.site/Ani-Dharmarajan-Portfolio-7478c9be63f445c384856d09104322a0" target="_blank">
+<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/resume.png alt=resume style="margin-bottom: 5px; height:28px;" />
+</a> 
+</div>  
+
 ## Projects 
 - [Fraud Detection using Probabilistic Classification](https://github.com/ani-rudh-d/amex-comp)
 <br/>  
- 
+
 ## Technical Capabilities
 **Programming Languages** Python
 
@@ -47,51 +60,38 @@
 ## Tech Stack 
 <div align="center">  
 <!--Python-->
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="20" /></a> 
 <!--SQL-->
-<a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/sql.png" alt="SQL" height="50" /></a> 
+<a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/sql.png" alt="SQL" height="30" /></a> 
 <!--Git-->
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/git.jpeg" alt="Git" height="50" /></a> 
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/git.jpeg" alt="Git" height="30" /></a> 
 <!--GitLab-->
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/gitlab.png" alt="Gitlab" height="50" /></a> 
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/gitlab.png" alt="Gitlab" height="30" /></a> 
 <!--XGBoost-->
-<a href="https://xgboost.ai/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/xgboost.png" alt="XGBoost" height="50" /></a> 
+<a href="https://xgboost.ai/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/xgboost.png" alt="XGBoost" height="30" /></a> 
 <!--LightGBM-->
-<a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/lightgbm.png" alt="LightGBM" height="50" /></a> 
+<a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/lightgbm.png" alt="LightGBM" height="20" /></a> 
 <!--ScikitLearn-->
-<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/scikitlearn.jpeg" alt="ScikitLearn" height="50" /></a> 
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/scikitlearn.jpeg" alt="ScikitLearn" height="30" /></a> 
 <!--Tensorflow-->
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/tensorflow.png" alt="Tensorflow" height="50" /></a> 
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/tensorflow.png" alt="Tensorflow" height="30" /></a> 
 <!--Keras-->
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/keras.png" alt="Keras" height="50" /></a> 
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/keras.png" alt="Keras" height="30" /></a> 
 <!--Pandas-->
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pandas.png" alt="Pandas" height="50" /></a> 
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/pandas.png" alt="Pandas" height="30" /></a> 
 <!--Numpy-->
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/numpy.png" alt="Numpy" height="50" /></a> 
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/numpy.png" alt="Numpy" height="30" /></a> 
 <!--Matplotlib-->
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/matplotlib.png" alt="Matplotlib" height="50" /></a> 
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/matplotlib.webp" alt="Matplotlib" height="20" /></a> 
 <!--Seaborn-->
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/seaborn.png" alt="Seaborn" height="50" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/seaborn.png" alt="Seaborn" height="30" /></a>
 <!--VSCode-->
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/vscode.png" alt="VSCode" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/vscode.png" alt="VSCode" height="30" /></a>
 <!--GCP-->
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/gcp.png" alt="GCP" height="50" /></a> 
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/gcp.png" alt="GCP" height="30" /></a> 
 <!--Airflow-->
-<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="50" /></a> 
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="30" /></a> 
 </div>
-
-## Connect with me  
-<div align="center">
-<a href="https://mercury-line-eed.notion.site/Ani-Dharmarajan-Portfolio-7478c9be63f445c384856d09104322a0" target="_blank">
-<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/website.png alt=website style="margin-bottom: 5px; height:28px;" />
-</a>
-<a href="https://mercury-line-eed.notion.site/Ani-Dharmarajan-Portfolio-7478c9be63f445c384856d09104322a0" target="_blank">
-<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/resume.png alt=resume style="margin-bottom: 5px; height:28px;" />
-</a>
-<a href="https://linkedin.com/in/ani-dharmarajan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 <br />
 
