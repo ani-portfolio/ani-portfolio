@@ -20,7 +20,7 @@
 - [Fraud Detection using Probabilistic Classification](https://github.com/ani-rudh-d/amex-comp)
 <br/>  
 
-## Technical Capabilities
+## Technical Skills
 **Programming Languages** Python
 
 **Python Libraries** Pandas, Numpy, Scikit-Learn, LightGBM, XGBoost, Keras, Tensorflow
