@@ -1,7 +1,7 @@
 <br/>  
 
 ### <div align="center">Hello, I'm Ani. 
-### <div align="center">I’m a self-starting Machine Learning Engineer / Data Scientist, with a passion for using ML & DS to build solutions for complex problems</div>  
+### <div align="center">I’m a Machine Learning Engineer / Data Scientist, with a passion for using Data & ML to build solutions for complex problems</div>  
 
 ## Connect with me  
 <div align="center">
