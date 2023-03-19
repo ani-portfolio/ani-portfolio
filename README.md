@@ -16,48 +16,9 @@
 </a> 
 </div>  
 
-## Projects 
-- [Fraud Detection using Probabilistic Classification](https://github.com/ani-rudh-d/amex-comp)
-<br/>  
 
-## Technical Skills
-**Programming Languages** Python
 
-**Python Libraries** Pandas, Numpy, Scikit-Learn, LightGBM, XGBoost, Keras, Tensorflow
-
-**Machine Learning** Regression, Classification, Clustering, Gradient Boosted Decision Trees
-
-**Deep Learning** LSTM, TDNN
-
-**Database** SQL, BigQuery
-
-**MLOps** Airflow, Docker, Gitlab CI/CD
-
-**Cloud** Google Cloud Platform (GCP), Vertex AI
-
-**Data Visualization** Looker, Plotly, Matplotlib, Seaborn
-
-**Statistical Modelling** ARIMA, Time-Series Forecasting
-
-**Python Libraries** Pandas, Numpy, Scikit-Learn, LightGBM, XGBoost, Keras, Tensorflow
-
-**Machine Learning** Regression, Classification, Clustering, Gradient Boosted Decision Trees
-
-**Deep Learning** LSTM, TDNN
-
-**Database** SQL, BigQuery
-
-**MLOps** Airflow, Docker, Gitlab CI/CD
-
-**Cloud** Google Cloud Platform (GCP), Vertex AI
-
-**Data Visualization** Looker, Plotly, Matplotlib, Seaborn
-
-**Statistical Modelling** ARIMA, Time-Series Forecasting
-<br/>  
-
-  
-## Tech Stack 
+***  
 <div align="center">  
 <!--Python-->
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="20" /></a> 
@@ -92,9 +53,3 @@
 <!--Airflow-->
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="30" /></a> 
 </div>
-
-<br />
-
-
-
-<br/>  
