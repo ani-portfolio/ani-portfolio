@@ -3,8 +3,7 @@
 ### <div align="center">Hello, I'm Ani. 
 ### <div align="center">I’m a Machine Learning Engineer / Data Scientist, with a passion for using Data & ML to build solutions for complex problems</div>  
 
-### Connect with me  
-***
+##  
 <div align="center">
 <a href="https://ani-dharmarajan.com/" target="_blank">
 <img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/website.png alt=website style="margin-bottom: 5px; height:35px;" />
@@ -19,7 +18,7 @@
 
 
 
-***  
+##  
 <div align="center">  
 <!--Python-->
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/python.png" alt="Python" height="20" /></a> 
@@ -55,4 +54,4 @@
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/airflow.png" alt="Airflow" height="30" /></a> 
 </div>
 
-***
+##  
