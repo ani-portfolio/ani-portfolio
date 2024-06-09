@@ -5,8 +5,6 @@
 
 ##  
 <div align="center">
-<a href="https://ani-dharmarajan.com/" target="_blank">
-<img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/website.png alt=website style="margin-bottom: 5px; height:35px;" />
 </a> 
 <a href="https://linkedin.com/in/ani-dharmarajan" target="_blank">
 <img src=https://github.com/ani-rudh-d/ani-rudh-d/blob/main/images/linkedin.png alt=linkedin style="margin-bottom: 5px; height:35px;" />
